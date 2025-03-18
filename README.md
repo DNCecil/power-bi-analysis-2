@@ -13,7 +13,7 @@
    ## 🌍 Images descriptions
 
    ### Page du projet
-![Capture d'écran 2024-08-28 144054](https://github.com/user-attachments/assets/59a5bc72-d5b3-4ea9-ac4c-7179cbbe8d15)
+![Premiere page](https://github.com/user-attachments/assets/ba961ce8-6b84-4c16-8e04-2c794b6ed35b)
 
   ### Information sur les marques et les appareils
   Cette page a été créé pour des observations personnelles concernant les
