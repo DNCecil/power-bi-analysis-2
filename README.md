@@ -16,5 +16,7 @@
 ![Premiere page](https://github.com/user-attachments/assets/ba961ce8-6b84-4c16-8e04-2c794b6ed35b)
 
   ### Information sur les marques et les appareils
-  Cette page a été créé pour des observations personnelles concernant les
+  Cette page a été créé pour des observations personnelles concernant les marques des appareils et leurs utilisations.
+![Capture d'écran 2024-08-30 171724](https://github.com/user-attachments/assets/e0f2e698-2892-47e0-ba45-0b2e42bc30dc)
+![Capture d'écran 2024-08-30 171116](https://github.com/user-attachments/assets/47fd736d-a55d-439a-ae90-6cba09f25050)
 ![Capture d'écran 2024-08-30 171146](https://github.com/user-attachments/assets/7c5558c2-d699-42af-a38b-4a90d6499284)
